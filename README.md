@@ -8,7 +8,6 @@ In 5 years of coding, I have learned and studied in various areas such as Front-
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [ozlemkarabulut99@gmail.com](mailto:ozlemkarabulut99@gmail.com)
-* 🚀  I'm currently working on [Nubes Bilişim A.Ş.](http://https://nubesbilisim.com/)
 * 🧠  I'm learning Couchbase Database & Java Spring Framework
 * ⚡  I also like chatting about different subjects with people but mostly movies, travelling, languages& cultures and books :)
 
