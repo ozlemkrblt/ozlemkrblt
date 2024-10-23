@@ -4,7 +4,7 @@ Hi 👋 My name is Özlem
 Software Developer
 -----------------------------------------------
 
-In 5 years of coding, I have learned and studied in various areas such as Front-End Development, Mobile Development, and Backend Development with Java, C, and C#. I have basic knowledge of many programming languages. I am knowledgeable about Software development cycles and methodologies. My recent experience was working in the Database area as an Advisor.
+In 7 years of coding, I have learned and studied in various areas such as Front-End Development, Mobile Development, and Backend Development with Java, C, and C#. I have basic knowledge of many programming languages. I am knowledgeable about Software development cycles and methodologies. My recent experience was working in the Database area as an Advisor.
 
 * 🌍  I'm based in Tübingen
 * ✉️  You can contact me at [ozlemkarabulut99@gmail.com](mailto:ozlemkarabulut99@gmail.com)
